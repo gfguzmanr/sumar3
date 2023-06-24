@@ -1,4 +1,5 @@
-package co.open_bootcamp;
+package com.open_bootcamp;
+
 public class Main {
     public static void main(String[] args) {
         int total = 0;
